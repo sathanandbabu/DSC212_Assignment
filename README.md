@@ -1,4 +1,6 @@
-DSC212 Karate Club assignment submission
-This is my submission for a course assignment on community detection using modularity, on the Zachary Karate Club dataset, for the year 2026, the DSC212 course on Mathematical Foundations for Data Science at IISER Thiruvanthapuram. It is an iPyNB with visualisations. An added section on my AI use regarding this assignment has also been added for clarity.
+# DSC212 Karate Club assignment submission
+This is an assignment given to me in my DSC212 course.
 
-On a sidenote, this was the most fun I had in writing an assignment in my time in this institute so far
+It is a Python-based network analysis project demonstrating hierarchical community detection using recursive spectral modularity optimization on the classic **Zachary’s Karate Club** dataset. This project tracks and visualizes structural network dynamics, node metrics evolution across iterations, and community segmentation.
+
+This is my first ever project, that I have ever done.
